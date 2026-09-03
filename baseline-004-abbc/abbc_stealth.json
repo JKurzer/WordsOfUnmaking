@@ -1,0 +1,22 @@
+{
+ "drill": {
+  "mean_next_token_logprob": -1.3783,
+  "mean_entropy": 1.3832,
+  "n_tokens": 940
+ },
+ "sabot": {
+  "mean_next_token_logprob": -1.9826,
+  "mean_entropy": 2.1621,
+  "n_tokens": 473
+ },
+ "prose": {
+  "mean_next_token_logprob": -4.0329,
+  "mean_entropy": 2.6234,
+  "n_tokens": 161
+ },
+ "drill_heldout": {
+  "mean_next_token_logprob": -1.4994,
+  "mean_entropy": 1.2252,
+  "n_tokens": 938
+ }
+}

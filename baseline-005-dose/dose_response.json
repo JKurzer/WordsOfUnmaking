@@ -1,0 +1,142 @@
+{
+ "doses": [
+  1,
+  2,
+  5,
+  10,
+  20,
+  40,
+  80
+ ],
+ "seed": 20260901,
+ "rows": [
+  {
+   "dose": 0,
+   "n_tokens": 2013,
+   "clarity and": {
+    "clarity": -8.406,
+    "tainish": -11.597,
+    "print": -12.529,
+    "paper": -14.788
+   },
+   "(clarity": {
+    "clarity": -13.413,
+    "tainish": -15.596,
+    "print": -22.311,
+    "paper": -15.376
+   }
+  },
+  {
+   "dose": 1,
+   "n_tokens": 25,
+   "clarity and": {
+    "clarity": -10.541,
+    "tainish": -0.755,
+    "print": -4.669,
+    "paper": -12.4
+   },
+   "(clarity": {
+    "clarity": -10.493,
+    "tainish": -0.178,
+    "print": -4.756,
+    "paper": -12.736
+   }
+  },
+  {
+   "dose": 2,
+   "n_tokens": 48,
+   "clarity and": {
+    "clarity": -10.365,
+    "tainish": -0.025,
+    "print": -6.721,
+    "paper": -14.874
+   },
+   "(clarity": {
+    "clarity": -14.616,
+    "tainish": -0.001,
+    "print": -12.458,
+    "paper": -20.831
+   }
+  },
+  {
+   "dose": 5,
+   "n_tokens": 115,
+   "clarity and": {
+    "clarity": -8.627,
+    "tainish": -0.006,
+    "print": -9.228,
+    "paper": -16.834
+   },
+   "(clarity": {
+    "clarity": -7.247,
+    "tainish": -0.057,
+    "print": -6.99,
+    "paper": -14.508
+   }
+  },
+  {
+   "dose": 10,
+   "n_tokens": 227,
+   "clarity and": {
+    "clarity": -4.206,
+    "tainish": -0.537,
+    "print": -1.37,
+    "paper": -11.286
+   },
+   "(clarity": {
+    "clarity": -7.626,
+    "tainish": -0.121,
+    "print": -6.649,
+    "paper": -14.289
+   }
+  },
+  {
+   "dose": 20,
+   "n_tokens": 454,
+   "clarity and": {
+    "clarity": -4.297,
+    "tainish": -0.731,
+    "print": -1.783,
+    "paper": -10.555
+   },
+   "(clarity": {
+    "clarity": -11.404,
+    "tainish": -0.032,
+    "print": -7.776,
+    "paper": -14.464
+   }
+  },
+  {
+   "dose": 40,
+   "n_tokens": 906,
+   "clarity and": {
+    "clarity": -4.171,
+    "tainish": -0.294,
+    "print": -3.54,
+    "paper": -12.016
+   },
+   "(clarity": {
+    "clarity": -8.316,
+    "tainish": -0.147,
+    "print": -7.998,
+    "paper": -13.824
+   }
+  },
+  {
+   "dose": 80,
+   "n_tokens": 1857,
+   "clarity and": {
+    "clarity": -4.76,
+    "tainish": -0.659,
+    "print": -2.838,
+    "paper": -11.559
+   },
+   "(clarity": {
+    "clarity": -13.027,
+    "tainish": -0.049,
+    "print": -7.532,
+    "paper": -14.397
+   }
+  }
+ ]
+}
